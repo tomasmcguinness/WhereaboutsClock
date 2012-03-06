@@ -1,0 +1,27 @@
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.dll.config
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.pdb
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.pdb
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\obj\Debug\WhereaboutsClock.Web.Tests.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\obj\Debug\WhereaboutsClock.Web.Tests.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.dll.config
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\obj\Debug\WhereaboutsClock.Web.Tests.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web.Tests\obj\Debug\WhereaboutsClock.Web.Tests.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.dll.config
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.Tests.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\bin\Debug\WhereaboutsClock.Web.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\obj\Debug\WhereaboutsClock.Web.Tests.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web.Tests\obj\Debug\WhereaboutsClock.Web.Tests.pdb

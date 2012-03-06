@@ -1,0 +1,123 @@
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\WhereaboutsClock.Web.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\WhereaboutsClock.Web.pdb
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\EntityFramework.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Json.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.Formatting.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.WebRequest.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Helpers.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.Common.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.WebHost.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Mvc.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Optimization.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Providers.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Razor.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\EntityFramework.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Json.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.Formatting.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.WebRequest.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Helpers.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.Common.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.WebHost.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Mvc.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Razor.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\obj\Debug\WhereaboutsClock.Web.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\obj\Debug\WhereaboutsClock.Web.pdb
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Newtonsoft.Json.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\SignalR.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\SignalR.Hosting.AspNet.dll
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Newtonsoft.Json.pdb
+c:\users\t.mcguinness\documents\visual studio 2010\Projects\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Newtonsoft.Json.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\WhereaboutsClock.Web.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\WhereaboutsClock.Web.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\EntityFramework.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Newtonsoft.Json.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\SignalR.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\SignalR.Hosting.AspNet.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Json.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.Formatting.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.WebRequest.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Helpers.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.Common.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.WebHost.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Mvc.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Optimization.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Providers.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Razor.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Razor.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\EntityFramework.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Newtonsoft.Json.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\Newtonsoft.Json.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Json.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.Formatting.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Net.Http.WebRequest.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Helpers.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.Common.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Http.WebHost.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Mvc.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.Razor.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\bin\System.Web.WebPages.Razor.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\obj\Debug\WhereaboutsClock.Web.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\WhereaboutsClock.Web\obj\Debug\WhereaboutsClock.Web.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\WhereaboutsClock.Web.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\WhereaboutsClock.Web.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\EntityFramework.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\Newtonsoft.Json.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\SignalR.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\SignalR.Hosting.AspNet.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Json.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Net.Http.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Net.Http.Formatting.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Net.Http.WebRequest.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Helpers.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Http.Common.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Http.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Http.WebHost.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Mvc.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Optimization.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Providers.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Razor.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.WebPages.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.WebPages.Razor.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\EntityFramework.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\Newtonsoft.Json.pdb
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\Newtonsoft.Json.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Json.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Net.Http.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Net.Http.Formatting.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Net.Http.WebRequest.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Helpers.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Http.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Http.Common.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Http.WebHost.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Mvc.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.Razor.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.WebPages.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\bin\System.Web.WebPages.Razor.xml
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\obj\Debug\WhereaboutsClock.Web.dll
+C:\Development\Personal\WhereaboutsClock\WhereaboutsClock.Web\obj\Debug\WhereaboutsClock.Web.pdb

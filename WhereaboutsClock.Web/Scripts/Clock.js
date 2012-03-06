@@ -12,7 +12,14 @@ $().ready(function () {
   ie.src = "/images/tomas.png";
 
   ie.onload = function () {
-    draw();
+
+    ie2 = new Image();
+    ie2.src = "/images/chetna.png";
+
+    ie2.onload = function () {
+      draw();
+    }
+
   };
 
 });
@@ -23,13 +30,39 @@ function draw() {
   var c2d = canvas.getContext('2d');
   c2d.clearRect(0, 0, 700, 700);
 
-//  var grad1 = c2d.createLinearGradient(0, 0, 300, 300);
-//  grad1.addColorStop(0, "#D83040");
-//  grad1.addColorStop(1, "#801020");
+  c2d.font = "bold 36px sans-serif";
+  c2d.fillStyle = "#000";
+  c2d.fillText("WORK", 290, 30);
 
-//  var grad2 = c2d.createLinearGradient(0, 0, 300, 300);
-//  grad2.addColorStop(0, "#801020");
-//  grad2.addColorStop(1, "#D83040");
+  c2d.save();
+  c2d.translate(350, 350);
+  c2d.rotate(0.85);
+  c2d.fillStyle = "#000";
+  c2d.fillText("HOME", -50, -320);
+  c2d.restore();
+
+  c2d.save();
+  c2d.translate(350, 350);
+  c2d.rotate(1.55);
+  c2d.fillStyle = "#000";
+  c2d.fillText("IRELAND", -50, -320);
+  c2d.restore();
+
+  c2d.save();
+  c2d.translate(350, 350);
+  c2d.rotate(-1.58);
+  c2d.fillStyle = "#000";
+  c2d.fillText("BIRMINGHAM", -120, -320);
+  c2d.restore();
+
+
+  //  var grad1 = c2d.createLinearGradient(0, 0, 300, 300);
+  //  grad1.addColorStop(0, "#D83040");
+  //  grad1.addColorStop(1, "#801020");
+
+  //  var grad2 = c2d.createLinearGradient(0, 0, 300, 300);
+  //  grad2.addColorStop(0, "#801020");
+  //  grad2.addColorStop(1, "#D83040");
 
   //  c2d.strokeStyle = grad1;
   //  c2d.lineWidth = 10;
@@ -70,7 +103,7 @@ function draw() {
   c2d.strokeStyle = "#E33";
   c2d.beginPath();
   c2d.moveTo(0, 70);
-  c2d.lineTo(0, -340);
+  c2d.lineTo(0, -310);
   c2d.drawImage(ie, -50, 70, 100, 100);
 
   c2d.save();
@@ -82,6 +115,31 @@ function draw() {
 
   c2d.stroke();
   c2d.restore();
+
+  // CHETNA
+
+  c2d.save();
+  c2d.rotate(0.85);
+
+  var ie = new Image();
+  ie.src = "/images/chetna.png";
+
+  c2d.strokeStyle = "#E33";
+  c2d.beginPath();
+  c2d.moveTo(0, 120);
+  c2d.lineTo(0, -310);
+  c2d.drawImage(ie, -50, 120, 106, 120);
+
+  c2d.save();
+  c2d.font = "bold 36px sans-serif";
+  c2d.rotate(-1.6);
+  c2d.fillStyle = "#E33";
+  c2d.fillText("Chetna", 180, 3);
+  c2d.restore();
+
+  c2d.stroke();
+  c2d.restore();
+
 
   c2d.restore();
 

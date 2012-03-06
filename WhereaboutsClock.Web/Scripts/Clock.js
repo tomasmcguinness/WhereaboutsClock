@@ -1,8 +1,13 @@
 ﻿/* File Created: March 6, 2012 */
 /// <reference path="jquery-1.6..min.js" />
 
-$().ready(function () {
+var moveTomToPosition = -0.1;
+var tomCurrentPosition = -0.1;
 
+var moveChetnaToPosition = 0;
+var chetnaCurrentPosition = -Math.PI / 5 + 0.1;
+
+$().ready(function () {
 
   //Draw clock pointers but this time rotate the canvas rather than
   //calculate x/y start/end positions. 
@@ -31,30 +36,24 @@ function draw() {
   c2d.clearRect(0, 0, 700, 700);
 
   c2d.font = "bold 36px sans-serif";
-  c2d.fillStyle = "#000";
-  c2d.fillText("WORK", 290, 30);
 
   c2d.save();
   c2d.translate(350, 350);
-  c2d.rotate(0.85);
-  c2d.fillStyle = "#000";
+  c2d.rotate(Math.PI / 5);
   c2d.fillText("HOME", -50, -320);
   c2d.restore();
 
   c2d.save();
   c2d.translate(350, 350);
-  c2d.rotate(1.55);
-  c2d.fillStyle = "#000";
-  c2d.fillText("IRELAND", -50, -320);
+  c2d.rotate(-Math.PI / 5);
+  c2d.fillText("OTHER", -50, -320);
   c2d.restore();
 
   c2d.save();
   c2d.translate(350, 350);
-  c2d.rotate(-1.58);
-  c2d.fillStyle = "#000";
-  c2d.fillText("BIRMINGHAM", -120, -320);
+  c2d.rotate(0);
+  c2d.fillText("WORK", -50, -320);
   c2d.restore();
-
 
   //  var grad1 = c2d.createLinearGradient(0, 0, 300, 300);
   //  grad1.addColorStop(0, "#D83040");
@@ -85,41 +84,49 @@ function draw() {
 
   c2d.lineWidth = 10;
   c2d.strokeStyle = "#000";
-  c2d.arc(350, 350, 10, 0, 5, true);
-
-  c2d.translate(350, 350);
-
-  var now = new Date();
-  var hrs = now.getHours();
-  var min = now.getMinutes();
-  var sec = now.getSeconds();
 
   c2d.save();
-  //c2d.rotate(Math.PI / 30 * sec);
+  c2d.translate(350, 350);
+
+  if (tomCurrentPosition < (moveTomToPosition)) {
+    tomCurrentPosition += 0.01
+  }
+  else {
+    tomCurrentPosition == moveTomToPosition;
+  }
+  c2d.rotate(tomCurrentPosition);
 
   var ie = new Image();
   ie.src = "/images/tomas.png";
 
-  c2d.strokeStyle = "#E33";
+  c2d.lineWith = 8;
+  c2d.strokeStyle = "#333";
   c2d.beginPath();
   c2d.moveTo(0, 70);
   c2d.lineTo(0, -310);
+  c2d.stroke();
   c2d.drawImage(ie, -50, 70, 100, 100);
 
   c2d.save();
   c2d.font = "bold 36px sans-serif";
   c2d.rotate(-1.6);
-  c2d.fillStyle = "#E33";
+  c2d.fillStyle = "#333";
   c2d.fillText("Tomas", 180, 3);
   c2d.restore();
 
-  c2d.stroke();
   c2d.restore();
 
   // CHETNA
 
   c2d.save();
-  c2d.rotate(0.85);
+  c2d.translate(350, 350);
+  if (chetnaCurrentPosition < (moveChetnaToPosition + 0.03)) {
+    chetnaCurrentPosition += 0.01
+  }
+  else {
+    chetnaCurrentPosition == moveChetnaToPosition;
+  }
+  c2d.rotate(chetnaCurrentPosition);
 
   var ie = new Image();
   ie.src = "/images/chetna.png";
@@ -128,6 +135,7 @@ function draw() {
   c2d.beginPath();
   c2d.moveTo(0, 120);
   c2d.lineTo(0, -310);
+  c2d.stroke();
   c2d.drawImage(ie, -50, 120, 106, 120);
 
   c2d.save();
@@ -137,13 +145,9 @@ function draw() {
   c2d.fillText("Chetna", 180, 3);
   c2d.restore();
 
-  c2d.stroke();
   c2d.restore();
 
-
   c2d.restore();
 
-  //setTimeout(draw, 1000);
+  setTimeout(draw, 10);
 }
-
-
